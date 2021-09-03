@@ -1,0 +1,19 @@
+/* Write your code here. */
+.eachthumbimg {
+  margin-right: 5px;
+}
+.button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  padding: 0;
+}
+.thumbimagesize {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
